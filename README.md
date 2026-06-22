@@ -114,4 +114,4 @@ Lines starting with `#` or `;` are skipped.
 
 ## License
 
-[See LICENSE](LICENSE)
+See [LICENSE](LICENSE)
